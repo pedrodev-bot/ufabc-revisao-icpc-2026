@@ -38,6 +38,7 @@ Em prioridade decrescente, acredito que os tópicos abaixo são importantes de s
 | Grafos (BFS/DFS, componentes conexas)                 | Alta frequência, sendo base para muitos outros temas. |
 | Programação Dinâmica (introdução, 1D, poucos estados) | Alta frequência, pode ser um fator limitante.         |
 | Prefix Sum                                            | Fácil de ensinar com alto custo-benefício.            |
+
 *Tópicos de maior incidência/custo-benefício.*
 
 | **Tópico**    | **Por quê**                                                               |
@@ -46,9 +47,9 @@ Em prioridade decrescente, acredito que os tópicos abaixo são importantes de s
 | Greedy        | É frequente, mas situacional (exige entender padrões).                    |
 | Two Pointers  | Complementa Prefix Sum, talvez até seja bom ensinar junto com prefix sum. |
 ## 4. Sugestão de Distribuição dos Tópicos
-Aula 2: Prefix Sum + Two Pointers
-Aula 3: Grafos
-Aula 4: DP
+- Aula 2: Prefix Sum + Two Pointers
+- Aula 3: Grafos
+- Aula 4: DP
 
 ## 5. Contest Pré-ICPC
 Não no modelo tradicional, acho que faz sentido separar uns exercícios para que os próprios times se organizem e pratiquem uns dias antes da ICPC.
