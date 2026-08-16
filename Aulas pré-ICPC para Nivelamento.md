@@ -1,3 +1,9 @@
+### Atenção
+
+***Este documento não necessariamente contém os conteúdos exatos das próximas aulas, mas apenas o rascunho necessário para padronizar o conteúdo ministrado.***
+
+---
+
 A ideia consiste em ministrar breve aulas que elevem o nível dos competidores, com o objetivo de que os times consigam resolver mais problemas.
 
 Essas aulas serão em formatos curtos e práticos, com conteúdos abordando tópicos específicos. A ideia é que uma aula não dependa da outra. Além disso, se está explicando sobre um tópico X, sintaxe, estrutura ou qualquer outro conteúdo que tenha sido ministrado naquelas aulas da grub, não precisam ser ensinados novamente (a não ser que julgue necessário).
